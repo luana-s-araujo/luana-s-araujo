@@ -4,7 +4,6 @@
 - I live in Brazil, north :relaxed: :wink:
 - i am software developer :computer:
 - I'm a math graduate :brain: :woman_teacher:
-- i am a software engineering student :books:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luana-s-araujo/" target="_blank">
